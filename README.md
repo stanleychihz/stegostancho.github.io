@@ -1,1 +1,0 @@
-# stegostancho.github.io
