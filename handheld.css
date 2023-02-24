@@ -1,0 +1,20 @@
+h1 {
+color: black;
+}
+
+.mySlides {
+width:965px;height:650px;
+}
+
+body {
+background-image:url('36126b086d4caf2a67a4cb4cfa84f784.jpg');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+}
+
+#emhare {
+background-color: orange;
+color:blue;
+}
+
