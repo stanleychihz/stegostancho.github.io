@@ -1,5 +1,6 @@
 h1 {
 color: black;
+background-color: white;
 }
 
 .mySlides {
@@ -11,9 +12,4 @@ background-image:url('36126b086d4caf2a67a4cb4cfa84f784.jpg');
 background-repeat: no-repeat;
 background-attachment: fixed;
 background-size: cover;
-}
-
-#emhare {
-background-color: orange;
-color:blue;
 }
